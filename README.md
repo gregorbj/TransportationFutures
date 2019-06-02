@@ -1,0 +1,3 @@
+# Transportation Futures
+
+This repository is being used to hold work products and resource materials developed during the course of the project funded by the Oregon DOT to use the fuzzy cognitive mapping process to evaluate the potential consequences of autonomous vehicles and other new transportation technologies and services on the travel behavior and the transportation system. It was through this project that the fuzzy systems dynamics modeling system was developed. In addition to serving as place to hold past work, this repository will hold new work by the author to refine and test the models that have been developed.
